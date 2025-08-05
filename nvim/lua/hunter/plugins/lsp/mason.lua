@@ -21,6 +21,8 @@ return {
         "pyright",
         "lua_ls",
         "biome",
+        "dockerls",
+        "vtsls"
 
       },
       automatic_installation = true,
