@@ -22,8 +22,8 @@ return {
         "lua_ls",
         "biome",
         "dockerls",
-        "vtsls"
-
+        "vtsls",
+        "jdtls"
       },
       automatic_installation = true,
       handlers = {
